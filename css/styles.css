@@ -1,0 +1,75 @@
+.card {
+  padding: 15px;
+}
+
+.jumbotron .img {
+  margin-bottom: 0px;
+    opacity: 0.2;
+    color: #fff;
+    background: #000 url("../img/vote-buttons.jpg") top center no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:1;
+}
+
+.jumbotron {
+  position:relative;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+.age-prompt {
+  text-align: center;
+}
+
+.form-control {
+  max-width: 200px;
+  margin: auto;
+}
+
+.age-prompt h4 {
+  margin-bottom: 20px;
+}
+
+.hero .img {
+  margin-bottom: 0px;
+  opacity: 0.2;
+  color: #fff;
+  background: #000 url(../img/ballots.jpg) top center no-repeat;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:1;
+}
+
+.hero {
+  text-align: center;
+}
+
+.under-18 .img {
+  margin-bottom: 0px;
+  opacity: 0.2;
+  color: #fff;
+  background: #000 url(../img/hands.jpg) top center no-repeat;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:1;
+}
+
+.under-18 h1 {
+  text-align: center;
+}
